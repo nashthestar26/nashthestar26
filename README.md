@@ -62,4 +62,5 @@
    </a> 
 </p>
 <h3 align="left">Stats and Dev Activity</h3>
+![Nash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashthestar26_icons=true&theme=radical)
 
