@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Full-Stack Developer from Philippines</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, JavaScript, React, Tailwind, Node.js, MongoDB, PostgreSQL, MySql<br>
+- 💻 Focused on Frontend Development
+- ⚛️ Building projects with React & JavaScript
+- 🎨 Interested in UI/UX and modern web design
+- 📚 Currently improving backend skills with Node.js & MySQL
+- 🚀 Goal: Become a Full Stack Developer
 
 
 ## 🌐 Socials:
