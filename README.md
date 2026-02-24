@@ -1,4 +1,3 @@
-# Hi There 👋
 <h1 align="center">Hi 👋, I'm Nasheer Hajie</h1>
 <h3 align="center">A passionate Full-Stack Developer from Philippines</h3>
 
