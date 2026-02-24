@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer • React • JavaScript</h3>
 <h3 align="center">A passionate Full-Stack Developer from Philippines and build responsive, user-focused web applications with clean UI and modern design.</h3>
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 - 💻 Focused on Frontend Development
 - ⚛️ Building projects with React & JavaScript
 - 🎨 Interested in UI/UX and modern web design
