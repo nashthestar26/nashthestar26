@@ -15,9 +15,6 @@
    <a href="https://www.facebook.com/nash.hajie.2024" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nash.hajie.2024" height="30" width="40" />
    </a>
-   <a href="https://www.topcoder.com/members/1400" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1400" height="30" width="40" />
-   </a>
 </p>
 
 <h3 align="left">Skill Stack</h3>
