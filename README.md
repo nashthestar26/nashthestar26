@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasheer Hajie</h1>
-<h3 align="center">A passionate Full-Stack Developer from Philippines</h3>
+<h3 align="center">A passionate Full-Stack Developer from Philippines and build responsive, user-focused web applications with clean UI and modern design.</h3>
 
 # 💫 About Me:
 - 💻 Focused on Frontend Development
